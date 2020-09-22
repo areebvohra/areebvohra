@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on muitiple React / React Native Projects
 - 🌱 I’m currently learning Flutter, NodeJS, Kubernetes
-- 📫 How to reach me: https:areebvohra@github.io
+- 📫 How to reach me: https://areebvohra.github.io
 
 <!--
 **AreebVohra/areebvohra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
