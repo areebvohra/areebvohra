@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Flutter, NodeJS, Kubernetes
 - 📫 How to reach me: https://areebvohra.github.io
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areebvohra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areebvohra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **AreebVohra/areebvohra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
