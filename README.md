@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on muitiple React / React Native Projects
-- 🌱 I’m currently learning Flutter, NodeJS, Kubernetes
+- 🔭 I’m currently working on muitiple React / React Native / Flutter Projects
+- 🌱 I’m currently learning AWS, NodeJS, Kubernetes
 - 📫 How to reach me: https://areebvohra.github.io
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areebvohra&layout=compact)](https://areebvohra.github.io)
