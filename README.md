@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on muitiple MERN / Flutter Projects
-- 🌱 I’m currently learning AWS, NodeJS, Kubernetes
+- 🔭 I’m currently working on muitiple MERN / Flutter / AWS
 - 📫 How to reach me: https://areebvohra.github.io
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areebvohra&layout=compact)](https://areebvohra.github.io)
