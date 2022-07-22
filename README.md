@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on muitiple React / React Native / Flutter Projects
+- 🔭 I’m currently working on muitiple MERN / Flutter Projects
 - 🌱 I’m currently learning AWS, NodeJS, Kubernetes
 - 📫 How to reach me: https://areebvohra.github.io
 
