@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on muitiple MERN / Flutter / AWS
+- 🔭 I’m currently working on muitiple MERN / Flutter / AWS Projects
 - 📫 How to reach me: https://areebvohra.github.io
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areebvohra&layout=compact)](https://areebvohra.github.io)-->
